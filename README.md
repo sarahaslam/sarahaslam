@@ -1,18 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhidabid.muhidabid" />
+<a href="https://drive.google.com/file/d/1d6R3tT5XPRVCZ6Ix2cB2J1FwmSYTWMXH/view?usp=sharing" target="_blank" rel="noreferrer">
+<img alt="Static Badge" src="https://img.shields.io/badge/Muhid's-Resume&color=2582BC">
+</a>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhid+Abid!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Saudi Arabia</h3>
+<h3 align="center">A recent BSCS grad currently exploring in Saudi Arabia and looking for a challenging position that will effectively build my experience</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently **looking for work**
- 
- 🌱 I’m currently learning **Moveit2, ROS**
+🌱 I’m currently learning **Moveit2, ROS** aiming for GSOC 2025
 
 💬 Ask me about **Node.js, React, Angular, MongoDB, C/C++, Python... or anything [here](https://github.com/muhidabid/muhidabid/issues)**
 
@@ -44,13 +45,13 @@
 <br/>
 <hr/>
 
-<div align="center">
+<!--<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/muhidabid/muhidabid/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
-</div>
+</div>-->
 
 <hr/>
 
