@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhidabid.muhidabid" />
 <a href="https://drive.google.com/file/d/1ixt1dg18PIECE-KGhDIQiZt6QmByV863/view?usp=drive_link" target="_blank" rel="noreferrer">
-<img alt="Static Badge" src="https://img.shields.io/badge/Muhid's-Resume&color=2582bc">
+<img alt="Static Badge" src="https://img.shields.io/badge/Muhid-Resume&color=2582bc">
 </a>
 
 <h1 align="center">
