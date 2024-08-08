@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhidabid.muhidabid" />
-<a href="https://drive.google.com/file/d/1d6R3tT5XPRVCZ6Ix2cB2J1FwmSYTWMXH/view?usp=sharing" target="_blank" rel="noreferrer">
-<img alt="Static Badge" src="https://img.shields.io/badge/Muhid's-Resume&color=2582BC">
+<a href="https://drive.google.com/file/d/1ixt1dg18PIECE-KGhDIQiZt6QmByV863/view?usp=drive_link" target="_blank" rel="noreferrer">
+<img alt="Static Badge" src="https://img.shields.io/badge/Muhid's-Resume&color=2582bc">
 </a>
 
 <h1 align="center">
