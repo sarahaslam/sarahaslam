@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhid+Abid!;" />
 </h1>
 
-<h3 align="center">A recent BSCS grad currently exploring in Saudi Arabia and looking for a challenging position that will effectively build my experience</h3>
+<h3 align="center">A recent BS-CS grad, currently in Saudi Arabia, looking for a challenging position that will effectively build my experience</h3>
 
 <br/>
 
