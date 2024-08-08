@@ -1,7 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhidabid.muhidabid" />
-<a href="https://drive.google.com/file/d/1ixt1dg18PIECE-KGhDIQiZt6QmByV863/view?usp=drive_link" target="_blank" rel="noreferrer">
-<img alt="Static Badge" src="https://img.shields.io/badge/Muhid-Resume&color=2582bc">
-</a>
+<div>
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhidabid.muhidabid" />
+    <a align="left" href="https://drive.google.com/file/d/1ixt1dg18PIECE-KGhDIQiZt6QmByV863/view?usp=drive_link" target="_blank" rel="noreferrer">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Muhid-Resume-2582bc">
+    </a>
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhid+Abid!;" />
