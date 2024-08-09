@@ -15,7 +15,7 @@
 
 <div align="center">
  
-🌱 I’m currently learning **Moveit2, ROS** aiming for GSOC 2025
+🌱 I’m currently learning **Moveit2, ROS**
 
 💬 Ask me about **Node.js, React, Angular, MongoDB, C/C++, Python... or anything [here](https://github.com/muhidabid/muhidabid/issues)**
 
