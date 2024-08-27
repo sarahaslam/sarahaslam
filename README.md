@@ -15,9 +15,9 @@
 
 <div align="center">
  
-🌱 I’m currently learning **Moveit2, ROS**
+🌱 I’m currently exploring **Robotics**
 
-💬 Ask me about **Node.js, React, Angular, MongoDB, C/C++, Python... or anything [here](https://github.com/muhidabid/muhidabid/issues)**
+💬 Ask me about **anything [here](https://github.com/muhidabid/muhidabid/issues)**
 
 ⚡ Fun fact **I can solve a rubik's cube in 30 seconds**
 
