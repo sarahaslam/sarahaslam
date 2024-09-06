@@ -5,15 +5,15 @@
     </a>
 </div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhid+Abid!;" />
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhid!;" />
 </h1>
 
-<h3 align="center">A recent BS-CS grad, currently in Saudi Arabia, looking for a challenging position that will effectively build my experience</h3>
+<h3 align="left">I am a recent BS-CS grad, soon to pursue a Masters in AI & Robotics. I am looking for a challenging position that will effectively build my experience.</h3>
 
 <br/>
 
-<div align="center">
+<div align="left">
  
 🌱 I’m currently exploring **Robotics**
 
@@ -25,7 +25,7 @@
 
  <br/>
  
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:muhidabid.cs@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -40,7 +40,7 @@
 <br/>
  <!--<hr/>-->
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ All the Languages, Frameworks, Tools I've touched⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=angular,react,nodejs,mongodb,mysql,javascript,typescript,express,python,flask,c,cpp,flutter,java,docker" />
