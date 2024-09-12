@@ -9,23 +9,31 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhid!;" />
 </h1>
 
-<h3 align="left">I am a recent BS-CS grad, soon to pursue a Masters in AI & Robotics. I am looking for a challenging position that will effectively build my experience.</h3>
+<!--<h3 align="left">I am an upcoming MSc. AI & Robotics candidate at UT-Nurnberg, Germany</h3>-->
 
+<p>
+I am an upcoming MSc. AI & Robotics candidate at the University of Technology Nuremberg, interested in robotics research and looking for a challenging position that will effectively build my experience.
+
+About me:
+
+- I love solving problems
+
+- I have experience with Full-stack web dev and UI/UX design
+
+- Fun fact: I can solve a rubik's cube in 30 seconds
+
+ </p>
+
+ <!--<hr/>-->
+ 
+<!-- <h2 align="center">⚒️ All the Languages, Frameworks, Tools I've touched⚒️</h2> -->
 <br/>
-
 <div align="left">
+    <img src="https://skillicons.dev/icons?i=angular,react,nodejs,mongodb,mysql,javascript,typescript,express,python,flask,c,cpp,flutter,java,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,vscode,github,git,kali,ubuntu" /><br>
+</div>
  
-🌱 I’m currently exploring **Robotics**
-
-💬 Ask me about **anything [here](https://github.com/muhidabid/muhidabid/issues)**
-
-⚡ Fun fact **I can solve a rubik's cube in 30 seconds**
-
- </div>
-
- <br/>
- 
-<div align="left"> 
+<!-- <div align="left"> 
   <a href="mailto:muhidabid.cs@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -33,21 +41,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://muhid.framer.ai" target="_blank" rel="noopener noreferrer">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options 
   </a>
-</div>
+</div> -->
 
-<br/>
- <!--<hr/>-->
- 
-<h2 align="center">⚒️ All the Languages, Frameworks, Tools I've touched⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,react,nodejs,mongodb,mysql,javascript,typescript,express,python,flask,c,cpp,flutter,java,docker" />
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,vscode,github,git,kali,ubuntu" /><br>
-</div>
-
-<br/>
 <!--<hr/>-->
 
 <!--<div align="center">
@@ -60,18 +57,16 @@
 
 <!--<hr/>-->
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
-<div align=center>
-    <img align="center" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=muhidabid&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <br/><br/>
+<!-- <h2 align="center">⚡ Stats ⚡</h2> -->
+<!-- <br/> -->
+<!-- <div align=left> -->
+<!--     <img align="center" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=muhidabid&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
+<!--     <br/><br/> -->
 <!--   <img width=390 src="https://github-readme-stats.vercel.app/api?username=muhidabid&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhidabid&show_icons=true&locale=en&theme=react" alt="readme stats" />
-    <br/><br/>
-    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=muhidabid&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhidabid&show_icons=true&locale=en&theme=react" alt="readme stats" /> -->
+<!--     <br/><br/> -->
+<!--     <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=muhidabid&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+<!-- </div> -->
 
 <!--<hr/>-->
 
