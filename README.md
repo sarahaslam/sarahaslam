@@ -12,7 +12,7 @@
 <!--<h3 align="left">I am an upcoming MSc. AI & Robotics candidate at UT-Nurnberg, Germany</h3>-->
 
 <p>
-I am an upcoming MSc. AI & Robotics candidate at the University of Technology Nuremberg, interested in robotics research and looking for a challenging position that will effectively build my experience.
+I am an MSc. AI & Robotics student at the University of Technology Nuremberg, interested in robotics research and looking for a challenging position that will effectively build my experience and domain knowledge for real-world implementations of robotics and AI.
 
 About me:
 
