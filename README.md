@@ -16,11 +16,11 @@ I am an MSc. AI & Robotics student at the University of Technology Nuremberg, in
 
 About me:
 
-- I love solving problems
+- I like solving problems
 
 - I have experience with Full-stack web dev and UI/UX design
 
-- Fun fact: I can solve a rubik's cube in 30 seconds
+- I can solve a rubik's cube in 30 seconds
 
  </p>
 
