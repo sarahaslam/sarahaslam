@@ -16,7 +16,7 @@ I am an MSc. AI & Robotics student at the University of Technology Nuremberg, in
 
 About me:
 
-- I like solving problems
+- I am learning AI and Robotics
 
 - I have experience with Full-stack web dev and UI/UX design
 
