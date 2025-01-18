@@ -1,9 +1,9 @@
-<div>
+<!--<div>
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhidabid.muhidabid" />
     <a align="left" href="https://drive.google.com/file/d/1TVV5MRBJakMltd4I3GD9cx7ktPdlWMDJ/view?usp=sharing" target="_blank" rel="noreferrer">
     <img alt="Static Badge" src="https://img.shields.io/badge/Muhid-Resume-2582bc">
     </a>
-</div>
+</div>-->
 
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhid!;" />
