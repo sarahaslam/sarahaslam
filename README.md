@@ -29,8 +29,8 @@ About me:
 <!-- <h2 align="center">⚒️ All the Languages, Frameworks, Tools I've touched⚒️</h2> -->
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=angular,react,nodejs,mongodb,mysql,javascript,typescript,express,python,flask,c,cpp,flutter,java,docker" />
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,vscode,github,git,kali,ubuntu" /><br>
+    <img src="https://skillicons.dev/icons?i=python,flask,c,cpp,kali,ubuntu,mongodb,mysql,nodejs,typescript,java" />
+    <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,tailwind,figma" /><br>
 </div>
  
 <!-- <div align="left"> 
