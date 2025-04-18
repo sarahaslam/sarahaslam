@@ -21,8 +21,8 @@ I am a BSc. Data Science graduate from FAST NUCES, Lahore, Pakistan. I specializ
 <!-- <h2 align="center">⚒️ All the Languages, Frameworks, Tools I've touched⚒️</h2> -->
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,flask,c,cpp,ubuntu" />
-    <img src="https://skillicons.dev/icons?i=aws,mongodb,mysql,javascript,react,express,nodejs,html,css,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=python,flask,c,cpp,ubuntu,aws" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,javascript,react,express,nodejs,figma" /><br>
 </div>
  
 <!-- <div align="left"> 
