@@ -1,26 +1,18 @@
 <div>
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhidabid.muhidabid" />
+<!--     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhidabid.muhidabid" /> -->
     <!--<a align="left" href="https://drive.google.com/file/d/1TVV5MRBJakMltd4I3GD9cx7ktPdlWMDJ/view?usp=sharing" target="_blank" rel="noreferrer">
     <img alt="Static Badge" src="https://img.shields.io/badge/Muhid-Resume-2582bc">
     </a>-->
 </div>
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhid!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sarah!;" />
 </h1>
 
 <!--<h3 align="left">I am an upcoming MSc. AI & Robotics candidate at UT-Nurnberg, Germany</h3>-->
 
 <p>
-I am an MSc. AI & Robotics student at the University of Technology Nuremberg, interested in robotics research and looking for a challenging position that will effectively build my experience and domain knowledge for real-world implementations of robotics and AI.
-
-About me:
-
-- I am learning AI and Robotics, focusing on math-heavy concepts
-
-- I have experience with Full-stack web dev, back-end dev and UI/UX design
-
-- I can solve a rubik's cube in 30 seconds
+I am a BSc. Data Science graduate from FAST NUCES, Lahore, Pakistan. I specialize in Data, AI, and UX design.
 
  </p>
 
@@ -29,8 +21,8 @@ About me:
 <!-- <h2 align="center">⚒️ All the Languages, Frameworks, Tools I've touched⚒️</h2> -->
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,flask,c,cpp,kali,ubuntu,mongodb,mysql,nodejs,typescript,java" />
-    <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,tailwind,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=python,flask,c,cpp,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=aws,mongodb,mysql,javascript,react,express,nodejs,html,css,figma" /><br>
 </div>
  
 <!-- <div align="left"> 
